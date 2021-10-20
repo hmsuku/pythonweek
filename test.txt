@@ -1,3 +1,7 @@
 1. Print the name of your primary school.
 2. print name of your favorite subject in school
+<<<<<<< HEAD
 3. Test line
+=======
+3. What are nested if statements.
+>>>>>>> parent of 09e0254 (Revert "final commit")
